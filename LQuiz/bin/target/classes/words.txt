@@ -1,0 +1,216 @@
+able-способный
+above-выше
+across-через
+admit-признавать
+against-против
+agree-соглашаться
+ahead-предстоящий
+allow-разрешать
+almost-почти
+along-вместе
+also-также
+although-несмотря на то что
+annoy-раздражать
+another-еще один
+apparently-по всей видимости
+appear-появляться
+approach-доступ
+arrive-прибыть
+attempt-пытаться
+avoid-избегать
+away-прочь
+barely-едва
+become-стали
+behind-позади
+beside-рядом
+besides-Помимо
+blink-мигать
+blush-краснеть
+bore-бурить
+both-оба
+bother-беспокоить
+bottom-нижний
+brought-привел
+burst-лопаться
+calm-спокойствие
+chuckle-посмеиваться
+climb-взбираться
+complete-полный
+completely-полностью
+concern-предприятие
+confuse-путать
+consider-рассмотреть возможность
+conversation-беседа
+corner-угол
+couch-диван
+could-мог
+crack-трескаться
+crowd-толпа
+decide-решать
+definitely-определенно
+direction-направление
+disappear-пропадать
+doubt-сомневаться
+drag-тяга
+during-в течение
+ear-ухо
+early-рано
+edge-край
+either-либо
+enough-достаточно
+entire-весь
+especially-особенно
+even-даже
+eventually-в итоге
+except-кроме
+excite-возбуждать
+exclaim-восклицать
+expect-ожидать
+expression-выражение
+eyebrow-бровь
+few-несколько
+field-поле
+frown-хмуриться
+gaze-посмотреть
+gently-нежно
+glance-взглянуть мельком
+glare-яркий свет
+gone-прошло
+gonna-собираюсь
+got-есть
+gotten-получил
+grin-ухмылка
+grip-рукоятка
+groan-стон
+guard-сторожить
+heard-слышал
+held-проводится
+hide-Спрятать
+however-Однако
+huge-огромный
+hung-повесили
+hurry-торопиться
+immediately-немедленно
+instead-вместо
+interrupt-прерывать
+knee-колено
+laugh-смех
+lay-класть
+meant-имел ввиду
+mention-упомянуть
+might-мощь
+mood-настроение
+most-самый
+near-Около
+nearly-Около
+nod-кивок
+notice-уведомление
+obviously-очевидно
+often-довольно часто
+onto-на
+perhaps-возможно
+pick-выбирать
+piece-кусок
+practically-практически
+pretend-притворяться
+probably-вероятно
+rather-скорее
+reach-достигать
+realize-понимать
+reason-причина
+recognize-распознавать
+remind-напоминать
+reply-ответить
+respond-отвечать
+ride-поездка
+rub-натирать
+rush-порыв
+same-такой же
+sat-сидел
+seat-сиденье
+seem-казаться
+seen-видимый
+self-себя
+sense-смысл
+settle-решить
+several-несколько
+share-поделиться
+shift-сдвиг
+shook-встряхнул
+shout-кричать
+shove-пихать
+show-показывать
+shrug-пожимание плечами
+shut-закрыть
+sigh-вздох
+sight-зрение
+sign-знак
+since-поскольку
+slam-хлопать
+slightly-немного
+smirk-ухмыляться
+snap-щелчок
+spend-проводить
+spot-место
+stair-лестница
+stare-глазеть
+stood-стоял
+straight-прямой
+strange-странный
+struggle-борьба
+such-такой
+sudden-внезапный
+suddenly-вдруг
+suggest-предложить
+suppose-предполагать
+surround-окружать
+tall-высокий
+tear-рвать
+than-чем
+that-что
+then-тогда
+thick-толстый
+third-в третьих
+those-те
+though-хотя
+through-через
+throw-бросать
+tie-галстук
+tight-тугой
+tire-шина
+took-взял
+toward-в направлении
+trail-тащить
+turn-повернуть
+until-до того как
+warm-тепло
+warn-предупреждать
+was-был
+wasn't-не было
+we're-были
+we've-у нас есть
+wear-носить
+weird-странный
+well-хорошо
+went-шел
+were-мы
+weren't-не были
+what's-что такое
+whatever-любой
+when-когда
+where-куда
+whether-будь то
+whisper-шепот
+whole-весь
+wide-широкий
+will-будут
+wipe-вытирать
+within-в пределах
+woke-проснулся
+won't-не будет
+wonder-удивляться
+wore-носил
+worse-худший
+would-бы
+wouldn't-не будет
+yell-кричать

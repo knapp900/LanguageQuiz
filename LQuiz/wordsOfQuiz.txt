@@ -1,0 +1,216 @@
+able-способный-0-false
+above-выше-0-false
+across-через-0-false
+admit-признавать-0-false
+against-против-0-false
+agree-соглашаться-0-false
+ahead-предстоящий-0-false
+allow-разрешать-0-false
+almost-почти-0-false
+along-вместе-0-false
+also-также-0-false
+although-несмотря на то что-0-false
+annoy-раздражать-0-false
+another-еще один-0-false
+apparently-по всей видимости-0-false
+appear-появляться-0-false
+approach-доступ-0-false
+arrive-прибыть-0-false
+attempt-пытаться-0-false
+avoid-избегать-0-false
+away-прочь-0-false
+barely-едва-0-false
+become-стали-0-false
+behind-позади-0-false
+beside-рядом-0-false
+besides-Помимо-0-false
+blink-мигать-0-false
+blush-краснеть-0-false
+bore-бурить-0-false
+both-оба-0-false
+bother-беспокоить-0-false
+bottom-нижний-0-false
+brought-привел-0-false
+burst-лопаться-0-false
+calm-спокойствие-0-false
+chuckle-посмеиваться-0-false
+climb-взбираться-0-false
+complete-полный-0-false
+completely-полностью-0-false
+concern-предприятие-0-false
+confuse-путать-0-false
+consider-рассмотреть возможность-0-false
+conversation-беседа-0-false
+corner-угол-0-false
+couch-диван-0-false
+could-мог-0-false
+crack-трескаться-0-false
+crowd-толпа-0-false
+decide-решать-0-false
+definitely-определенно-0-false
+direction-направление-0-false
+disappear-пропадать-0-false
+doubt-сомневаться-0-false
+drag-тяга-0-false
+during-в течение-0-false
+ear-ухо-0-false
+early-рано-0-false
+edge-край-0-false
+either-либо-0-false
+enough-достаточно-0-false
+entire-весь-0-false
+especially-особенно-0-false
+even-даже-0-false
+eventually-в итоге-0-false
+except-кроме-0-false
+excite-возбуждать-0-false
+exclaim-восклицать-0-false
+expect-ожидать-0-false
+expression-выражение-0-false
+eyebrow-бровь-0-false
+few-несколько-0-false
+field-поле-0-false
+frown-хмуриться-0-false
+gaze-посмотреть-0-false
+gently-нежно-0-false
+glance-взглянуть мельком-0-false
+glare-яркий свет-0-false
+gone-прошло-0-false
+gonna-собираюсь-0-false
+got-есть-0-false
+gotten-получил-0-false
+grin-ухмылка-0-false
+grip-рукоятка-0-false
+groan-стон-0-false
+guard-сторожить-0-false
+heard-слышал-0-false
+held-проводится-0-false
+hide-Спрятать-0-false
+however-Однако-0-false
+huge-огромный-0-false
+hung-повесили-0-false
+hurry-торопиться-0-false
+immediately-немедленно-0-false
+instead-вместо-0-false
+interrupt-прерывать-0-false
+knee-колено-0-false
+laugh-смех-0-false
+lay-класть-0-false
+meant-имел ввиду-0-false
+mention-упомянуть-0-false
+might-мощь-0-false
+mood-настроение-0-false
+most-самый-0-false
+near-Около-0-false
+nearly-Около-0-false
+nod-кивок-0-false
+notice-уведомление-0-false
+obviously-очевидно-0-false
+often-довольно часто-0-false
+onto-на-0-false
+perhaps-возможно-0-false
+pick-выбирать-0-false
+piece-кусок-0-false
+practically-практически-0-false
+pretend-притворяться-0-false
+probably-вероятно-0-false
+rather-скорее-0-false
+reach-достигать-0-false
+realize-понимать-0-false
+reason-причина-0-false
+recognize-распознавать-0-false
+remind-напоминать-0-false
+reply-ответить-0-false
+respond-отвечать-0-false
+ride-поездка-0-false
+rub-натирать-0-false
+rush-порыв-0-false
+same-такой же-0-false
+sat-сидел-0-false
+seat-сиденье-0-false
+seem-казаться-0-false
+seen-видимый-0-false
+self-себя-0-false
+sense-смысл-0-false
+settle-решить-0-false
+several-несколько-0-false
+share-поделиться-0-false
+shift-сдвиг-0-false
+shook-встряхнул-0-false
+shout-кричать-0-false
+shove-пихать-0-false
+show-показывать-0-false
+shrug-пожимание плечами-0-false
+shut-закрыть-0-false
+sigh-вздох-0-false
+sight-зрение-0-false
+sign-знак-0-false
+since-поскольку-0-false
+slam-хлопать-0-false
+slightly-немного-0-false
+smirk-ухмыляться-0-false
+snap-щелчок-0-false
+spend-проводить-0-false
+spot-место-0-false
+stair-лестница-0-false
+stare-глазеть-0-false
+stood-стоял-0-false
+straight-прямой-0-false
+strange-странный-0-false
+struggle-борьба-0-false
+such-такой-0-false
+sudden-внезапный-0-false
+suddenly-вдруг-0-false
+suggest-предложить-0-false
+suppose-предполагать-0-false
+surround-окружать-0-false
+tall-высокий-0-false
+tear-рвать-0-false
+than-чем-0-false
+that-что-0-false
+then-тогда-0-false
+thick-толстый-0-false
+third-в третьих-0-false
+those-те-0-false
+though-хотя-0-false
+through-через-0-false
+throw-бросать-0-false
+tie-галстук-0-false
+tight-тугой-0-false
+tire-шина-0-false
+took-взял-0-false
+toward-в направлении-0-false
+trail-тащить-0-false
+turn-повернуть-0-false
+until-до того как-0-false
+warm-тепло-0-false
+warn-предупреждать-0-false
+was-был-0-false
+wasn't-не было-0-false
+we're-были-0-false
+we've-у нас есть-0-false
+wear-носить-0-false
+weird-странный-0-false
+well-хорошо-0-false
+went-шел-0-false
+were-мы-0-false
+weren't-не были-0-false
+what's-что такое-0-false
+whatever-любой-0-false
+when-когда-0-false
+where-куда-0-false
+whether-будь то-0-false
+whisper-шепот-0-false
+whole-весь-0-false
+wide-широкий-0-false
+will-будут-0-false
+wipe-вытирать-0-false
+within-в пределах-0-false
+woke-проснулся-0-false
+won't-не будет-0-false
+wonder-удивляться-0-false
+wore-носил-0-false
+worse-худший-0-false
+would-бы-0-false
+wouldn't-не будет-0-false
+yell-кричать-0-false

@@ -1,0 +1,216 @@
+able-способный-0
+above-выше-0
+across-через-0
+admit-признавать-0
+against-против-0
+agree-соглашаться-0
+ahead-предстоящий-0
+allow-разрешать-0
+almost-почти-0
+along-вместе-0
+also-также-0
+although-несмотря на то что-0
+annoy-раздражать-0
+another-еще один-0
+apparently-по всей видимости-0
+appear-появляться-0
+approach-доступ-0
+arrive-прибыть-0
+attempt-пытаться-0
+avoid-избегать-0
+away-прочь-0
+barely-едва-0
+become-стали-0
+behind-позади-0
+beside-рядом-0
+besides-Помимо-0
+blink-мигать-0
+blush-краснеть-0
+bore-бурить-0
+both-оба-0
+bother-беспокоить-0
+bottom-нижний-0
+brought-привел-0
+burst-лопаться-0
+calm-спокойствие-0
+chuckle-посмеиваться-0
+climb-взбираться-0
+complete-полный-0
+completely-полностью-0
+concern-предприятие-0
+confuse-путать-0
+consider-рассмотреть возможность-0
+conversation-беседа-0
+corner-угол-0
+couch-диван-0
+could-мог-0
+crack-трескаться-0
+crowd-толпа-0
+decide-решать-0
+definitely-определенно-0
+direction-направление-0
+disappear-пропадать-0
+doubt-сомневаться-0
+drag-тяга-0
+during-в течение-0
+ear-ухо-0
+early-рано-0
+edge-край-0
+either-либо-0
+enough-достаточно-0
+entire-весь-0
+especially-особенно-0
+even-даже-0
+eventually-в итоге-0
+except-кроме-0
+excite-возбуждать-0
+exclaim-восклицать-0
+expect-ожидать-0
+expression-выражение-0
+eyebrow-бровь-0
+few-несколько-0
+field-поле-0
+frown-хмуриться-0
+gaze-посмотреть-0
+gently-нежно-0
+glance-взглянуть мельком-0
+glare-яркий свет-0
+gone-прошло-0
+gonna-собираюсь-0
+got-есть-0
+gotten-получил-0
+grin-ухмылка-0
+grip-рукоятка-0
+groan-стон-0
+guard-сторожить-0
+heard-слышал-0
+held-проводится-0
+hide-Спрятать-0
+however-Однако-0
+huge-огромный-0
+hung-повесили-0
+hurry-торопиться-0
+immediately-немедленно-0
+instead-вместо-0
+interrupt-прерывать-0
+knee-колено-0
+laugh-смех-0
+lay-класть-0
+meant-имел ввиду-0
+mention-упомянуть-0
+might-мощь-0
+mood-настроение-0
+most-самый-0
+near-Около-0
+nearly-Около-0
+nod-кивок-0
+notice-уведомление-0
+obviously-очевидно-0
+often-довольно часто-0
+onto-на-0
+perhaps-возможно-0
+pick-выбирать-0
+piece-кусок-0
+practically-практически-0
+pretend-притворяться-0
+probably-вероятно-0
+rather-скорее-0
+reach-достигать-0
+realize-понимать-0
+reason-причина-0
+recognize-распознавать-0
+remind-напоминать-0
+reply-ответить-0
+respond-отвечать-0
+ride-поездка-0
+rub-натирать-0
+rush-порыв-0
+same-такой же-0
+sat-сидел-0
+seat-сиденье-0
+seem-казаться-0
+seen-видимый-0
+self-себя-0
+sense-смысл-0
+settle-решить-0
+several-несколько-0
+share-поделиться-0
+shift-сдвиг-0
+shook-встряхнул-0
+shout-кричать-0
+shove-пихать-0
+show-показывать-0
+shrug-пожимание плечами-0
+shut-закрыть-0
+sigh-вздох-0
+sight-зрение-0
+sign-знак-0
+since-поскольку-0
+slam-хлопать-0
+slightly-немного-0
+smirk-ухмыляться-0
+snap-щелчок-0
+spend-проводить-0
+spot-место-0
+stair-лестница-0
+stare-глазеть-0
+stood-стоял-0
+straight-прямой-0
+strange-странный-0
+struggle-борьба-0
+such-такой-0
+sudden-внезапный-0
+suddenly-вдруг-0
+suggest-предложить-0
+suppose-предполагать-0
+surround-окружать-0
+tall-высокий-0
+tear-рвать-0
+than-чем-0
+that-что-0
+then-тогда-0
+thick-толстый-0
+third-в третьих-0
+those-те-0
+though-хотя-0
+through-через-0
+throw-бросать-0
+tie-галстук-0
+tight-тугой-0
+tire-шина-0
+took-взял-0
+toward-в направлении-0
+trail-тащить-0
+turn-повернуть-0
+until-до того как-0
+warm-тепло-0
+warn-предупреждать-0
+was-был-0
+wasn't-не было-0
+we're-были-0
+we've-у нас есть-0
+wear-носить-0
+weird-странный-0
+well-хорошо-0
+went-шел-0
+were-мы-0
+weren't-не были-0
+what's-что такое-0
+whatever-любой-0
+when-когда-0
+where-куда-0
+whether-будь то-0
+whisper-шепот-0
+whole-весь-0
+wide-широкий-0
+will-будут-0
+wipe-вытирать-0
+within-в пределах-0
+woke-проснулся-0
+won't-не будет-0
+wonder-удивляться-0
+wore-носил-0
+worse-худший-0
+would-бы-0
+wouldn't-не будет-0
+yell-кричать-0
